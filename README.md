@@ -26,7 +26,7 @@ O projeto está organizado da seguinte forma:
 
 As respostas teóricas e explicações da atividade estão disponíveis no arquivo:
 
-👉 (https://github.com/isaqueguimarcar/bsi-tasks/blob/main/database/20252/tarefas/isaqueguimarcar/tarefa-orm.md)
+👉 (https://github.com/isaqueguimarcar/bsi-tasks/blob/feat/tarefa-2/database/20252/tarefas/isaqueguimarcar/tarefa-orm.md)
 
 ---
 
