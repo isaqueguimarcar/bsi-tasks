@@ -146,10 +146,10 @@ database/
 # 7. Links do projeto
 
 JDBC:
-https://github.com/isaqueguimarcar/bsi-tasks/tree/main/database/20252/tarefas/isaqueguimarcar/java-jdbc
+https://github.com/isaqueguimarcar/bsi-tasks/tree/feat/tarefa-2/database/20252/tarefas/isaqueguimarcar/java-jdbc
 
 ORM:
-https://github.com/isaqueguimarcar/bsi-tasks/tree/main/database/20252/tarefas/isaqueguimarcar/orm-hibernate
+https://github.com/isaqueguimarcar/bsi-tasks/tree/feat/tarefa-2/database/20252/tarefas/isaqueguimarcar/orm-hibernate
 
 ---
 
